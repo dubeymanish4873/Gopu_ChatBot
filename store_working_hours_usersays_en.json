@@ -1,0 +1,80 @@
+[
+  {
+    "id": "68b5da1e-e729-4cfe-8ded-c17019d711aa",
+    "data": [
+      {
+        "text": "when the shop will close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78f5b0fb-24ad-42e8-a109-5947913eae83",
+    "data": [
+      {
+        "text": "time of open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e73e6269-503a-426c-a686-8254e10b4854",
+    "data": [
+      {
+        "text": "time of close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b47929d-6dc8-452a-9a9a-6c5ef6accddc",
+    "data": [
+      {
+        "text": "closing time of shop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d7e4d47-fcb2-4a17-a332-98e9999ac5c3",
+    "data": [
+      {
+        "text": "shop opening timing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31101cef-1144-41e7-a325-185c0e2cfd84",
+    "data": [
+      {
+        "text": "Time of opening of shop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

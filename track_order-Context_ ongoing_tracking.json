@@ -1,0 +1,54 @@
+{
+  "id": "9d86d048-25ae-4703-9e10-3b0820c6b95b",
+  "name": "track_order-Context: ongoing_tracking",
+  "auto": true,
+  "contexts": [
+    "ongoing_tracking"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing_tracking",
+          "lifespan": 9
+        }
+      ],
+      "parameters": [
+        {
+          "id": "58170c56-82ea-4d17-821c-37189c83d7aa",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

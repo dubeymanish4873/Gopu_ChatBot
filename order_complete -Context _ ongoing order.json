@@ -1,0 +1,42 @@
+{
+  "id": "f55cf540-270b-4c26-bf1d-b97f78ef3d8b",
+  "name": "order_complete -Context : ongoing order",
+  "auto": true,
+  "contexts": [
+    "ongoing_order"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing_order",
+          "lifespan": 9
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Whooo... Your order is placed Here is your order id#"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

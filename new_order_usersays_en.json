@@ -1,0 +1,106 @@
+[
+  {
+    "id": "447bfc42-0e35-4b8c-8f8d-33fd580b7bcc",
+    "data": [
+      {
+        "text": "foods available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "644c9fba-de12-4673-98ce-d918d734f680",
+    "data": [
+      {
+        "text": "food menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eebdf4d1-5fb4-4775-8fd5-f2406c237990",
+    "data": [
+      {
+        "text": "show me the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55028606-b8cc-4d18-abaa-77b18042e9a3",
+    "data": [
+      {
+        "text": "note my new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fba12202-06b5-4c02-8b9d-2b8b254f6a4e",
+    "data": [
+      {
+        "text": "here is my new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3b9bcc9-836e-4e4c-bdab-742df5b4b8e4",
+    "data": [
+      {
+        "text": "my new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a63eb590-c299-4871-a1f3-3bffdf6464e9",
+    "data": [
+      {
+        "text": "place a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "050bd4f5-798a-4dfd-bf09-2a5961e4bb67",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

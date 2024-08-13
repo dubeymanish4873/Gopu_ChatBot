@@ -1,0 +1,329 @@
+[
+  {
+    "id": "5edea143-670f-4fc7-b4cd-ea952e2c6535",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37771eff-ffd5-4365-953a-3274064e3e39",
+    "data": [
+      {
+        "text": "can you remove ",
+        "userDefined": false
+      },
+      {
+        "text": "mango lassi",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "673b3c8a-2c0a-41bc-8c02-981a545be1d1",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8eb494a3-0620-465c-80f4-c9fb47d9e556",
+    "data": [
+      {
+        "text": "I don\u0027t want ",
+        "userDefined": false
+      },
+      {
+        "text": "pav bhaji",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea7a0bb1-b097-4243-9606-6188cb9ba616",
+    "data": [
+      {
+        "text": "hey, plz get rid of ",
+        "userDefined": false
+      },
+      {
+        "text": "rava dosa",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "samosa",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ae10ab4-e5c6-4e9b-969b-14e8b126df15",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "chole",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b5cb85f-fc99-4e83-84be-1bbf8f5ce105",
+    "data": [
+      {
+        "text": "Please take the ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " off my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8719f72f-6a7f-43ee-8043-85cc2ab1510b",
+    "data": [
+      {
+        "text": "I would like to remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc7bb7ec-5c60-48cd-8e47-0c82865657dc",
+    "data": [
+      {
+        "text": "Kindly exclude the ",
+        "userDefined": false
+      },
+      {
+        "text": "rava dosa",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " from my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aa76eac-b588-4e53-9e43-bc9dd14289a9",
+    "data": [
+      {
+        "text": "I no longer want the ",
+        "userDefined": false
+      },
+      {
+        "text": "rava dosa",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " in my order, please remove it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff82f1fe-baa9-45db-a0a4-95eb6731ffcc",
+    "data": [
+      {
+        "text": "I\u0027d like to exclude ",
+        "userDefined": false
+      },
+      {
+        "text": "pav bhaji",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "samosa",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": ", please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df0b6c15-42bd-4ba4-b724-ea1b0da44452",
+    "data": [
+      {
+        "text": "Kindly take ",
+        "userDefined": false
+      },
+      {
+        "text": "pav bhaji",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "samosa",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " off the order, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eeeb0fda-9a53-4d57-926b-51dd0eff0c78",
+    "data": [
+      {
+        "text": "No ",
+        "userDefined": false
+      },
+      {
+        "text": "pav bhaji",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "samosa",
+        "meta": "@food_items",
+        "alias": "food_items",
+        "userDefined": false
+      },
+      {
+        "text": " in my order. please remove.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
